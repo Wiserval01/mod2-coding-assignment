@@ -1,2 +1,2 @@
-# mod2-assignment
+# mod2-coding-assignment
 Module 2 assignment
